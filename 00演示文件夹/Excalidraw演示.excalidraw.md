@@ -39,7 +39,7 @@ Excalidraw插件演示 ^YkQDxc4B
 			"y": -31.5,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 289,
+			"width": 300,
 			"height": 29,
 			"seed": 57222,
 			"groupIds": [],
