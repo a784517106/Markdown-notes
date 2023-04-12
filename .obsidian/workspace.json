@@ -11,9 +11,11 @@
             "id": "5ec71cfb54300c75",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "00演示文件夹/看板演示.md"
+                "file": "02笔记库/这里可以放置你的笔记.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00演示文件夹/看板演示.md",
+                "file": "02笔记库/这里可以放置你的笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00演示文件夹/看板演示.md"
+                "file": "02笔记库/这里可以放置你的笔记.md"
               }
             }
           },
@@ -135,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00演示文件夹/看板演示.md",
+                "file": "02笔记库/这里可以放置你的笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +166,9 @@
   },
   "active": "5ec71cfb54300c75",
   "lastOpenFiles": [
+    "00演示文件夹/看板演示.md",
     "02笔记库/这里可以放置你的笔记.md",
     "00演示文件夹/Excalidraw演示.excalidraw.md",
-    "00演示文件夹/看板演示.md",
     "Zettelkasten/202109121613第一张ZK笔记.md",
     "日记/2021-12-06.md",
     "模板/ZK笔记模板.md",
