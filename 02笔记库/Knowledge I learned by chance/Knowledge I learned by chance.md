@@ -769,5 +769,6 @@ Sourcetree里：
 ![](Knowledge%20I%20learned%20by%20chance.assets/image-20230412155645216.png)
 
 ![image-20230412160005918](Knowledge%20I%20learned%20by%20chance.assets/image-20230412160005918.png)
-由于上一次在远程仓库中初始化时留下了以恶搞README.md文件，所以
+按照菜鸟教程的方法初始化以后总是报错，于是我还是决定使用自建库，然后将笔记存放在自建库里
+由于上一次在远程仓库中初始化时留下了一个README.md文件，所以
 ![[Pasted image 20230412172213.png]]
