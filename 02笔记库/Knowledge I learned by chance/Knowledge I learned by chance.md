@@ -769,3 +769,5 @@ Sourcetree里：
 ![](Knowledge%20I%20learned%20by%20chance.assets/image-20230412155645216.png)
 
 ![image-20230412160005918](Knowledge%20I%20learned%20by%20chance.assets/image-20230412160005918.png)
+由于上一次在远程仓库中初始化时留下了以恶搞README.md文件，所以
+![[Pasted image 20230412172213.png]]
