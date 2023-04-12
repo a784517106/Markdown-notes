@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02笔记库/Chatgpt Work-flow/Chatgpt Work-flow.md",
+                "file": "02笔记库/这里可以放置你的笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02笔记库/Chatgpt Work-flow/Chatgpt Work-flow.md",
+                "file": "02笔记库/这里可以放置你的笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/Chatgpt Work-flow/Chatgpt Work-flow.md"
+                "file": "02笔记库/这里可以放置你的笔记.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02笔记库/Chatgpt Work-flow/Chatgpt Work-flow.md",
+                "file": "02笔记库/这里可以放置你的笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,6 +166,7 @@
   },
   "active": "5ec71cfb54300c75",
   "lastOpenFiles": [
+    "02笔记库/Chatgpt Work-flow/Chatgpt Work-flow.md",
     "02笔记库/这里可以放置你的笔记.md",
     "00演示文件夹/看板演示.md",
     "00演示文件夹/Excalidraw演示.excalidraw.md",
