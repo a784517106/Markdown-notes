@@ -767,8 +767,5 @@ Obsidian里：
 ![image-20230412155533417](Knowledge%20I%20learned%20by%20chance.assets/image-20230412155533417.png)
 Sourcetree里：
 ![](Knowledge%20I%20learned%20by%20chance.assets/image-20230412155645216.png)
-
-![image-20230412160005918](Knowledge%20I%20learned%20by%20chance.assets/image-20230412160005918.png)
 按照菜鸟教程的方法初始化以后总是报错，于是我还是决定使用自建库，然后将笔记存放在自建库里（笨办法）
-由于上一次在远程仓库中初始化时留下了一个README.md文件，所以需要强制同步（删除远程仓库的修改）
-![[Pasted image 20230412172213.png]]
+由于上一次在远程仓库中初始化时留下了一个README.md文件，所以需要强制同步（删除远程仓库的修改)
