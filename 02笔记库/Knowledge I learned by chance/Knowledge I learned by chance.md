@@ -668,7 +668,7 @@ Git安装时Configuring extra options是用来选择Git的一些额外的配置�
 (2) Plink SSH Host key -> Windows Registry Entry - Stack Overflow. https://stackoverflow.com/questions/42094333/plink-ssh-host-key-windows-registry-entry 访问时间 2023/4/6.
 (3) plink.exe bypass Strict Host Key Checking - Stack Overflow. https://stackoverflow.com/questions/67157098/plink-exe-bypass-strict-host-key-checking 访问时间 2023/4/6.
 
-没太弄懂，反正<font color='red'>改成OpenSSH就跑通了</font>，它认为是**<font color='orange'>.known_hosts文件的问题</font>**
+没太弄懂，反正**<font color='red'>改成OpenSSH就跑通了</font>**，它认为是**<font color='orange'>.known_hosts文件的问题</font>**
 
 ***我自己的Sourcetree上的这个“立即推送变更到origin/master”是灰色的***
 
